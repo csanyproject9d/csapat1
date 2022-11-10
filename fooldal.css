@@ -1,0 +1,20 @@
+#fm{
+    background-color: aquamarine;
+}
+a:hover{
+    background-color: aqua;
+}
+h2{
+    text-align: center;
+    background-color: brown;
+    color: blanchedalmond;
+}
+body{
+    background-color: beige;
+}
+img{
+    width: 350px;
+}
+img{
+    float: right;
+}
