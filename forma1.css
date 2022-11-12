@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+    color: orangered;
+    background-color: blanchedalmond;
+}
+body{
+    background-color: #9999FF;
+}
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+#fimg{
+    width: 100px;
+}

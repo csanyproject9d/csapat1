@@ -1,5 +1,5 @@
 #fm{
-    background-color: aquamarine;
+    background-color:azure;
 }
 a:hover{
     background-color: aqua;
@@ -12,9 +12,10 @@ h2{
 body{
     background-color: beige;
 }
-img{
+#fimg{
     width: 188px;
 }
-img{
-    float: right;
+p{
+    text-align: justify;
+    text-justify: inter-word;
 }
