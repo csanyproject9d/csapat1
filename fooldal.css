@@ -1,5 +1,5 @@
 #fm{
-    background-color:azure;
+    background-color:darkseagreen;
 }
 a:hover{
     background-color: aqua;
@@ -8,9 +8,12 @@ h2{
     text-align: center;
     background-color: brown;
     color: blanchedalmond;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 body{
-    background-color: beige;
+    background-color:bisque;
+    color:black;
 }
 #fimg{
     width: 188px;
