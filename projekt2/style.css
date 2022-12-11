@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    background-color:bisque;
+}
+.container{
+    background-color: cadetblue;
+}
+body{
+    background-color: cornflowerblue;
+}
+p{
+    word-break:break-all;
+    color:darkred;
+}
+td{
+    color:crimson;
+}
+th{
+    color:darkslateblue;
+}
