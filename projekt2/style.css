@@ -10,11 +10,14 @@ body{
 }
 p{
     word-break:break-all;
-    color:darkred;
+    color:darkred   ;
 }
 td{
-    color:crimson;
+    color:darkslategrey;
 }
 th{
     color:darkslateblue;
+}
+ol{
+    margin:20px;
 }
