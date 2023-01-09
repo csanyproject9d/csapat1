@@ -1,18 +1,62 @@
+ol, li, h4{
+    text-align: center;
+}
+.card {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 90%;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container {
+    padding: 2px 16px;
+  }
+  
+  .card1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 62%;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container {
+    padding: 2px 16px;
+  }
+  .card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 122%;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container {
+    padding: 2px 16px;
+  }
+
+#p1{
+    text-align: center;
+    text-align: justify;
+}
+#p2{
+    background-color: cadetblue;
+}
 h1{
     background-color: bisque;
     text-align: center;
-    margin-left: 500px;
-    margin-right: 500px;
-}
-#az{
-    background-color: #FFC0CB;
-}
-#kecske{
-    background-color:#31906E ;
 }
 body{
-    background-color: #B7CEEC;
+    background-color: darkgreen;
 }
 .container{
-    background-color:#FBF6D9;
+    background-color:azure;
+}
+p{
+    text-align: center;
 }
