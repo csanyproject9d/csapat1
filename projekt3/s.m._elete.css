@@ -1,0 +1,24 @@
+body{
+    background-color: dimgray;
+}
+.container{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+    background-color: burlywood;
+}
+.card{
+    width: 235px;
+}
+.card-header, .card-paragraph{
+    text-align: center;
+    background-color: darkgrey;
+    color: white;
+}
+.card-body{
+    background-color: blanchedalmond;
+}
+.card-footer{
+    background-color: cornsilk;
+}
