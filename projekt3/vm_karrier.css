@@ -1,0 +1,21 @@
+h1{
+    background-color: bisque;
+    text-align: center;
+}
+.container{
+    background-color: rgb(160, 188, 241);
+}
+body{
+    background-color: beige;
+}
+img{
+    width: 260px;
+    height: 255px;
+}
+#valmar{
+    height: 170px;
+}
+.card-body{
+    background-color: lavender;
+    
+}
