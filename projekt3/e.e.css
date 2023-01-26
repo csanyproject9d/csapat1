@@ -1,3 +1,17 @@
 h1{
     text-align: center;
+    background-color: rgb(187, 147, 199);
+}
+body{
+    background-color: antiquewhite;
+}
+.container{
+    background-color: rgb(194, 108, 216);
+}
+#sor{
+    width: 250px;
+    height: 200px;
+}
+a{
+    color: black;
 }
