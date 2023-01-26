@@ -7,3 +7,12 @@ body{
 .table{
     width: 400px;
 }
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.card{
+    width: 235px;
+}
