@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    background-color: darkseagreen;
+}
+body{
+    background-color: lightblue;
+}
+.container{
+    background-color: bisque;
+}
+.card{
+    background-color: lightcyan;
+}
