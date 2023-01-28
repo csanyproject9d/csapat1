@@ -22,3 +22,9 @@ h1{
 .card-footer{
     background-color: cornsilk;
 }
+p{
+    text-align: justify;
+}
+h4, h5{
+    background-color: aquamarine;
+}
