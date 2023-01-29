@@ -1,0 +1,26 @@
+body{
+    background-color: crimson;
+}
+.container{
+    background-color: darkcyan;
+}
+h1{
+    text-align: center;
+    color: brown;
+    background-color: azure;
+}
+.card{
+    width: 350px;
+}
+.card-header{
+    background-color: azure;
+}
+.card-body{
+    background-color: blanchedalmond;
+}
+h4, h5{
+    background-color: darkmagenta;
+}
+p{
+    text-align: justify;
+}
