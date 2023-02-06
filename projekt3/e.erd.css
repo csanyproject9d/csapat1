@@ -1,0 +1,12 @@
+body{
+    background-color: lightsalmon;
+}
+.card{
+    width: 235px;
+}
+.card-header{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
